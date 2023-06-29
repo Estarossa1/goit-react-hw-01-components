@@ -19,7 +19,7 @@
   transition: all 0.3s ease-in-out;
 }
 .table_row:hover {
-  background-color: yellow;
+  background-color: rgba(50, 0, 255, 0.3);
   cursor: pointer;
   transform: perspective(1px) scale(1.01);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
