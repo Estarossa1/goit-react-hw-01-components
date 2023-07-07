@@ -6,7 +6,7 @@ export const Footer = () => {
     <div className={css.footer}>
       <p>
         © 2023 Components. All rights reserved. <br />
-        Created by Petro Shutak
+        Created by Estar0ssa1
       </p>
     </div>
   );
